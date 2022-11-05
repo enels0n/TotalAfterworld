@@ -1,0 +1,8 @@
+name: ${project.name}
+main: ${project.groupId}.${project.name}
+version: ${project.version}
+authors: [E_NeLsOn]
+depend: [PlayerNPC,PlaceholderAPI]
+api-version: 1.19
+commands:
+   totalafterworld:
